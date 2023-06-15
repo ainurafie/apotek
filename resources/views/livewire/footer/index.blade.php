@@ -149,7 +149,7 @@
             </div>
             <div class="px-20 mt-10">
                 <div class=" border-t border-[#A9ABAE] flex justify-center py-4">
-                    <h1 class="text-[#A9ABAE] text-base font-normal">Copyright ©2022 Powerkerto</h1>
+                    <h1 class="text-[#A9ABAE] text-base font-normal">© Copyright Apotek Tugu Batu 2023. All right reserved</h1>
                 </div>
             </div>
         </div>
