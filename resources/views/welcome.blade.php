@@ -13,9 +13,9 @@
 </head>
 
 <body>
-    <h1 class="text-3xl text-red-500 font-poppins font-bold underline">
-        Hello world!
-    </h1>
+    <div class="sticky top-0 z-20">
+        <livewire:navbar.index/>
+    </div>
 </body>
 
 </html>
