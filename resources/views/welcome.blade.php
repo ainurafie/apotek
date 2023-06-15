@@ -16,6 +16,10 @@
     <div class="sticky top-0 z-20">
         <livewire:navbar.index/>
     </div>
+    <div class="">
+        <livewire:footer.index/>
+
+    </div>
 </body>
 
 </html>
