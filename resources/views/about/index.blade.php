@@ -156,13 +156,7 @@
                 </h1>
             </div>
         </div>
-        <div class="flex gap-4 items-center mb-6 mt-24">
-            <div class="w-5 h-10 bg-[#4E9FCA] rounded-[5px]"></div>
-            <h1 class="font-poppins text-base text-[#4E9FCA] font-semibold">
-                Testimonials
-            </h1>
-        </div>
-        <h1 class="font-poppins text-[36px] text-black font-semibold mb-[30px]">
+        <h1 class="font-poppins text-[36px] text-black font-semibold mb-[30px] mt-24">
             What Our Customer are Saying
         </h1>
         <div class="flex gap-[60px] overflow-x-hidden testimoni">

@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about.index');
 });
+Route::get('/contact', function () {
+    return view('contact.index');
+});
