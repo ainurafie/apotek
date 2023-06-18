@@ -1,7 +1,7 @@
 <div class="w-full">
     <div id="default-carousel" class="relative" data-carousel="static">
         <!-- Carousel wrapper -->
-        <div class="overflow-hidden relative h-56 sm:h-64 xl:h-80 2xl:h-96">
+        <div class="overflow-hidden relative rounded-[16px] h-56 sm:h-64 xl:h-80 2xl:h-96">
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <span
