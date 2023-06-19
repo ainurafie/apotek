@@ -28,3 +28,6 @@ Route::get('/vitamin-c', function () {
 Route::get('/norvask', function () {
     return view('detail-product.norvask');
 });
+Route::get('/sanmol', function () {
+    return view('detail-product.sanmol');
+});
