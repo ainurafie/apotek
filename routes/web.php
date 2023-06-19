@@ -25,3 +25,6 @@ Route::get('/contact', function () {
 Route::get('/vitamin-c', function () {
     return view('detail-product.vitaminC');
 });
+Route::get('/norvask', function () {
+    return view('detail-product.norvask');
+});
