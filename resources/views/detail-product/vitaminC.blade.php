@@ -36,15 +36,18 @@
                 </div>
                 <div class="flex items-center mb-9 gap-24">
                     <h1 class="text-xl font-poppins font-medium">Kuantitas</h1>
-                    <form id='myform' method='POST' class='quantity' action='#'>
-                        <input type='button' value='-'
-                            class='qtyminus minus border border-[#A9ABAE] rounded-[4px] bg-[#4E9FCA] text-white'
-                            field='quantity' />
-                        <input type='text' name='quantity' value='0' class='qty' />
-                        <input type='button' value='+'
-                            class='qtyplus plus border border-[#A9ABAE] rounded-[4px] bg-[#4E9FCA] text-white'
-                            field='quantity' />
-                    </form>
+                    <div class="flex items-center gap-2">
+                        <form id='myform' method='POST' class='quantity' action='#'>
+                            <input type='button' value='-'
+                                class='qtyminus minus border border-[#A9ABAE] rounded-[4px] bg-[#4E9FCA] text-white'
+                                field='quantity' />
+                            <input type='text' name='quantity' value='0' class='qty' />
+                            <input type='button' value='+'
+                                class='qtyplus plus border border-[#A9ABAE] rounded-[4px] bg-[#4E9FCA] text-white'
+                                field='quantity' />
+                        </form>
+                        <h1 class="text-lg text-[#A9ABAE] font-poppins">tersisa 100 buah</h1>
+                    </div>
                 </div>
                 <button data-modal-toggle="tambah-keranjang"
                     class="px-[18px] py-3 text-white rounded-[10px] bg-[#4E9FCA] hover:bg-[#4E9FCA]/90 w-full">Tambah ke
