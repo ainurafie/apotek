@@ -22,3 +22,6 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact.index');
 });
+Route::get('/vitamin-c', function () {
+    return view('detail-product.vitaminC');
+});
