@@ -85,7 +85,7 @@
         </h1>
         <div class="flex gap-[60px] overflow-x-hidden">
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px] relative">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px] relative">
                     <img src="../assets/images/sanmol.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         Sanmol Strip 4 Tablet
@@ -136,8 +136,8 @@
                                     <feColorMatrix type="matrix"
                                         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
                                     <feBlend mode="normal" in2="BackgroundImageFix"
-                                        result="effect1_dropShadow_16_2766" />
-                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16_2766"
+                                        result="effect1_dropShadow shadow-black/25_16_2766" />
+                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow shadow-black/25_16_2766"
                                         result="shape" />
                                 </filter>
                             </defs>
@@ -146,7 +146,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px] relative">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px] relative">
                     <img src="../assets/images/vitamin c.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         Vitamin c
@@ -190,7 +190,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px] relative">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px] relative">
                     <img src="../assets/images/diatabs.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         diatabs
@@ -243,8 +243,8 @@
                                     <feColorMatrix type="matrix"
                                         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
                                     <feBlend mode="normal" in2="BackgroundImageFix"
-                                        result="effect1_dropShadow_16_2800" />
-                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16_2800"
+                                        result="effect1_dropShadow shadow-black/25_16_2800" />
+                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow shadow-black/25_16_2800"
                                         result="shape" />
                                 </filter>
                             </defs>
@@ -254,7 +254,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/blackmores.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         Blackmores
@@ -263,7 +263,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/sanmol.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         Sanmol Strip 4 Tablet
@@ -272,7 +272,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/sanmol.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         Sanmol Strip 4 Tablet
@@ -281,7 +281,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/sanmol.svg" alt="" class="mb-2">
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
                         Sanmol Strip 4 Tablet
@@ -327,7 +327,7 @@
         </h1>
         <div class="grid grid-cols-4 gap-[60px]">
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/sanmol.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -337,7 +337,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/blackmores.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -347,7 +347,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/diatabs.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -357,7 +357,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/vitamin c.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -367,7 +367,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/omron 2.png" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -377,7 +377,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/blackmores.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -387,7 +387,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/diatabs.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -397,7 +397,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="rounded-[25px] shadow bg-white p-6 w-[250px]">
+                <div class="rounded-[25px] shadow shadow-black/25 bg-white p-6 w-[250px]">
                     <img src="../assets/images/vitamin c.svg" alt="" class="mb-2">
 
                     <h1 class="font-poppins text-base text-black font-medium mb-7">
@@ -655,7 +655,7 @@
         </h1>
         <div class="flex gap-[60px] overflow-x-hidden article">
             <div class="flex-shrink-0">
-                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow h-auto">
+                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow shadow-black/25 h-auto">
                     <a href="#">
                         <img class="rounded-t-lg" src="../assets/images/article1.svg" alt="" />
                     </a>
@@ -676,7 +676,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow h-auto">
+                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow shadow-black/25 h-auto">
                     <a href="#">
                         <img class="rounded-t-lg" src="../assets/images/article2.svg" alt="" />
                     </a>
@@ -697,7 +697,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow h-auto">
+                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow shadow-black/25 h-auto">
                     <a href="#">
                         <img class="rounded-t-lg" src="../assets/images/article3.svg" alt="" />
                     </a>
@@ -718,7 +718,7 @@
                 </div>
             </div>
             <div class="flex-shrink-0">
-                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow h-auto">
+                <div class="w-[350px] bg-white border border-gray-200 rounded-[25px] shadow shadow-black/25 h-auto">
                     <a href="#">
                         <img class="rounded-t-lg" src="../assets/images/article1.svg" alt="" />
                     </a>
