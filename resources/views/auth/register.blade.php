@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <title>Login</title>
+    <title>Register</title>
     <link
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
@@ -119,39 +119,43 @@
         </div>
         <div class="col-span-6 px-28">
             <h1 class="font-poppins text-[40px] text-center text-black font-semibold mb-[30px]">
-                LOGIN
+                Register
             </h1>
             <h1 class="font-poppins text-base text-black font-medium mb-[60px]">
-                Selamat datang di website Apotek Tugu Batu. Silahkan isi data di bawah ini untuk masuk ke website.
+                Selamat datang di website Apotek Tugu Batu. Silahkan isi data di bawah ini untuk membuat akun.
             </h1>
             <div class="mb-[30px]">
-                <input type="email" id="email"
-                    class="shadow-sm bg-[#DFE3E9] text-gray-900 text-sm rounded-lg border-none block w-full p-2.5"
-                    placeholder="Email" required>
+                <input type="text" id="name"
+                class="shadow-sm bg-[#DFE3E9] text-gray-900 text-sm rounded-lg border-none block w-full p-2.5"
+                placeholder="Nama" required>
             </div>
-
+            <div class="mb-[30px]">
+                <input type="email" id="email"
+                class="shadow-sm bg-[#DFE3E9] text-gray-900 text-sm rounded-lg border-none block w-full p-2.5"
+                placeholder="Email" required>
+            </div>
+            
             <div class="relative mb-[50px]">
                 <input id="password" type="password" name="password" id="password"
-                    class="shadow-sm bg-[#DFE3E9] text-gray-900 text-sm rounded-lg border-none block w-full p-2.5"
-                    placeholder="Kata Sandi" autocomplete="current-password" required>
+                class="shadow-sm bg-[#DFE3E9] text-gray-900 text-sm rounded-lg border-none block w-full p-2.5"
+                placeholder="Kata Sandi" autocomplete="current-password" required>
                 <div class="flex absolute top-3 right-3 items-center pr-3 text-gray-600 cursor-pointer">
                     <iconify-icon id="toggler1" icon="bxs:show"></iconify-icon>
                 </div>
             </div>
             <div class="flex justify-center mb-24">
                 <button type="submit" id="submitButton"
-                    class="px-[50px] py-3 text-white rounded-full bg-[#4E9FCA]"
-                    >Login</button>
+                class="px-[50px] py-3 text-white rounded-full bg-[#4E9FCA]"
+                >Register</button>
             </div>
             <div class="flex gap-1 items-center">
                 <h1 class="font-poppins text-base text-black font-medium">
-                    Belum memiliki akun?
+                    Sudah memiliki akun?
                 </h1>
-                <a href="/register" class="font-poppins text-base text-[#4E9FCA] font-medium">
-                    Register
+                <a href="/login" class="font-poppins text-base text-[#4E9FCA] font-medium">
+                    Login
                 </a>
             </div>
-        </div>
         </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

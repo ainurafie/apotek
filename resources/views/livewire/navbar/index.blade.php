@@ -46,11 +46,11 @@
                         </form>
                     </li>
                     <li>
-                        <a href="#"
+                        <a href="/login"
                             class="px-7 py-2 text-white rounded-full bg-[#4E9FCA] hover:bg-[#4E9FCA]/90">Login</a>
                     </li>
                     <li>
-                        <a href="#"
+                        <a href="/register"
                             class="px-7 py-2 bg-white rounded-full text-[#4E9FCA] border border-[#4E9FCA] hover:text-white hover:bg-[#4E9FCA]/90">Register</a>
                     </li>
                 </ul>
