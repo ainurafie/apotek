@@ -52,8 +52,8 @@
                     <div class="flex gap-3 items-center">
                         <input type="checkbox" id="pengantaranSelesai" name="selected[]"
                             class="form-checkbox h-5 w-5 text-black rounded">
-                        <label for="pengantaranSelesai"
-                            class="cursor-pointer text-base font-medium text-black">Save this information for faster check-out next time</label>
+                        <label for="pengantaranSelesai" class="cursor-pointer text-base font-medium text-black">Save
+                            this information for faster check-out next time</label>
                     </div>
                 </form>
             </div>
@@ -173,8 +173,11 @@
                             stroke-linejoin="round" />
                     </svg>
                 </button>
-                <button type=""
-                    class="px-[50px] py-3 text-white text-base font-medium  rounded-[10px] w-full mt-5 bg-[#4E9FCA]">Order</button>
+                <a href="/qris">
+                    <div
+                        class="px-[50px] py-3 text-white text-base font-medium text-center rounded-[10px] w-full mt-5 bg-[#4E9FCA]">
+                        Order</div>
+                </a>
             </div>
         </div>
     </div>
@@ -182,8 +185,8 @@
     <div class="">
         <livewire:footer.index />
     </div>
-    <livewire:modal.upload-foto-resep/>
-    <livewire:modal.pembayaran/>
+    <livewire:modal.upload-foto-resep />
+    <livewire:modal.pembayaran />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>

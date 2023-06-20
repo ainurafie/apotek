@@ -46,3 +46,6 @@ Route::get('/cart', function () {
 Route::get('/checkout', function () {
     return view('cart.checkout');
 });
+Route::get('/qris', function () {
+    return view('cart.qris');
+});
