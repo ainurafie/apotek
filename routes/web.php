@@ -40,3 +40,9 @@ Route::get('/sanmol', function () {
 Route::get('/shop', function () {
     return view('shop.index');
 });
+Route::get('/cart', function () {
+    return view('cart.index');
+});
+Route::get('/checkout', function () {
+    return view('cart.checkout');
+});
