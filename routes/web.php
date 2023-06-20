@@ -31,3 +31,6 @@ Route::get('/norvask', function () {
 Route::get('/sanmol', function () {
     return view('detail-product.sanmol');
 });
+Route::get('/shop', function () {
+    return view('shop.index');
+});
