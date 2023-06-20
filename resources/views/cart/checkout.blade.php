@@ -140,7 +140,7 @@
                             stroke-linejoin="round" />
                     </svg>
                 </button>
-                <button
+                <button data-modal-toggle="payment"
                     class="px-5 py-2.5 rounded-[10px] shadow shadow-black/25 flex justify-between items-center mb-[30px] w-full">
                     <div class="flex items-center gap-5">
                         <svg width="32" height="32" viewBox="0 0 32 32" fill="none"
@@ -183,6 +183,7 @@
         <livewire:footer.index />
     </div>
     <livewire:modal.upload-foto-resep/>
+    <livewire:modal.pembayaran/>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
