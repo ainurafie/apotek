@@ -52,3 +52,9 @@ Route::get('/qris', function () {
 Route::get('/pembayaran-success', function () {
     return view('cart.pembayaran-success');
 });
+Route::get('/privacy-police', function () {
+    return view('about.privacy-police');
+});
+Route::get('/terms-conditions', function () {
+    return view('about.terms-conditions');
+});

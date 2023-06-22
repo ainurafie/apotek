@@ -1,7 +1,7 @@
 <div>
     <nav class="sticky bg-white shadow border-gray-200">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-            <a href="https://flowbite.com/" class="flex items-center">
+            <a href="/" class="flex items-center">
                 <img src="../assets/images/logo.svg" class="h-8 mr-3" alt="Logo" />
             </a>
             <button data-collapse-toggle="navbar-default" type="button"

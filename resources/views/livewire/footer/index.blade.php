@@ -3,7 +3,7 @@
         <div class="mx-auto w-full  px-6 lg:pt-8">
             <div class="md:flex px-20 gap-20">
                 <div class="mb-6 md:mb-0 w-1/5">
-                    <a href="https://flowbite.com/" class="flex items-center mb-2.5">
+                    <a href="/" class="flex items-center mb-2.5">
                         <img src="../assets/images/logo.svg" class="h-[66px] mr-3" alt="FlowBite Logo" />
 
                     </a>
@@ -54,13 +54,13 @@
                         About</h2>
                     <ul class="text-[#181818] font-poppins">
                         <li class="mb-4">
-                            <a href="" class="text-[#181818] font-poppins ">About Us</a>
+                            <a href="/about" class="text-[#181818] font-poppins ">About Us</a>
                         </li>
                         <li class="mb-4">
-                            <a href="" class="text-[#181818] font-poppins ">Privacy Policy</a>
+                            <a href="/privacy-police" class="text-[#181818] font-poppins ">Privacy Policy</a>
                         </li>
                         <li>
-                            <a href="" class="text-[#181818] font-poppins ">Terms & Conditions</a>
+                            <a href="/terms-conditions" class="text-[#181818] font-poppins ">Terms & Conditions</a>
                         </li>
                     </ul>
                 </div>
