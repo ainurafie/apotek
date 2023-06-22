@@ -168,9 +168,12 @@
                         Rp 112.000
                     </h1>
                 </div>
-                <button type=""
-                    class="px-[50px] py-3 text-white text-base font-medium  rounded-[10px] w-full mt-5 bg-[#4E9FCA]"
-                    >Checkout</button>
+                <a href="/checkout">
+                    <div
+                        class="px-[50px] py-3 text-white text-center text-base font-medium  rounded-[10px] w-full mt-5 bg-[#4E9FCA]">
+                        Checkout
+                    </div>
+                </a>
             </div>
         </div>
     </div>

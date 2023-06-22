@@ -64,24 +64,24 @@
                 <table class="w-full">
                     <tbody class="w-full">
                         <tr class="w-full">
-                            <th scope="row" class="flex items-center  text-gray-900 w-full ">
-                                <img class="w-[100px] h-[100px]" src="../assets/images/vitamin c.svg" alt="Jese image">
-                                <div class="pl-3">
-                                    <div class="text-base font-semibold w-full">Vitacimin Lemon Strip 2 Tablet</div>
-                                </div>
-                            </th>
-                            <td>
-                                <div class="text-base font-semibold w-full text-end">Rp 22.000</div>
+                                <td scope="row" class="flex items-center  text-gray-900 w-full ">
+                                    <img class="w-[100px] h-[100px]" src="../assets/images/vitamin c.svg" alt="Jese image">
+                                    <div class="pl-3">
+                                        <div class="text-base font-semibold w-full">Vitacimin Lemon Strip 2 Tablet</div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="text-base font-semibold w-full text-end">Rp 22.000</div>
 
-                            </td>
+                                </td>
                         </tr>
                         <tr class="w-full">
-                            <th scope="row" class="flex items-center  text-gray-900 w-full ">
+                            <td scope="row" class="flex items-center  text-gray-900 w-full ">
                                 <img class="w-[100px] h-[100px]" src="../assets/images/Norvask.svg" alt="Jese image">
                                 <div class="pl-3">
                                     <div class="text-base font-semibold w-full">Norvask 5 mg 10 Tablet</div>
                                 </div>
-                            </th>
+                            </td>
                             <td>
                                 <div class="text-base font-semibold w-full text-end">Rp 92.000</div>
 
