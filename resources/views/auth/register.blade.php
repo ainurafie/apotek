@@ -17,7 +17,7 @@
 
 <body>
     <div class="flex justify-center">
-        <a href="">
+        <a href="/">
             <img src="../assets/images/logo.svg" class="mt-[50px]" alt="">
         </a>
     </div>
