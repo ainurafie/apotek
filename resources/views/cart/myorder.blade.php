@@ -128,9 +128,9 @@
                     <div class="text-base font-semibold w-full text-end mb-[30px] text-[#DB4444]">Rp 92.000</div>
                     <div class="flex gap-5 justify-end items-center">
 
-                        <a href="/checkout" type=""
+                        <button data-modal-toggle="detail-order"
                             class="px-[50px] py-3 text-white text-base font-medium  rounded-[10px] w-max mb-5 bg-[#4E9FCA]">Lacak
-                            Pesanan</a>
+                            Pesanan</button>
                     </div>
                 </div>
 
